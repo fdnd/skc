@@ -1,0 +1,4 @@
+a.disabled {
+    opacity:.3;
+    pointer-events: none;
+}
