@@ -1,7 +1,9 @@
+
 a.disabled {
     opacity:.3;
     pointer-events: none;
 }
+
 
 strong.emoji {
     font-size: 2em;
